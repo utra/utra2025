@@ -8,4 +8,4 @@
 - [ ] Relevant docs are updated
 
 **Other Information**
-<any additional notes or screenshots>
+\<any additional notes or screenshots\>
