@@ -1,6 +1,6 @@
 **PR Description**
-- Issue (number): #1>
-- Issue (in words): <fixes a bug on...>
+- Issue (number): \<#1\>
+- Issue (in words): \<fixes a bug on...\>
 
 **PR Checklist**
 - [ ] This PR has appropriate title, descriptions, and commit messages
